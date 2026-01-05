@@ -70,8 +70,6 @@ Focused on:
 - **Role-Based Access Control APIs**
 - **CRUD Systems using Clean Architecture**
 
-> Project implementations and source code are available in the repositories below.
-
 ---
 
 ## 🌐 Connect With Me
