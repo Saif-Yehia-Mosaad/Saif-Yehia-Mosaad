@@ -91,7 +91,7 @@ Focused on:
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Saif-Yehia-Mosaad&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saif-Yehia-Mosaad&theme=tokyonight"
     height="170"
   />
   <img
