@@ -1,83 +1,93 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
-</p>
-
-<!-- HEADER CARD -->
-<p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=800&color=4F9CF9&center=true&vCenter=true&width=720&lines=Backend+.NET+Developer;Computer+Science+Graduate;Building+Scalable+APIs" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=130&section=header"/>
 </p>
 
 <p align="center">
-  <b>Backend .NET Developer</b> · <b>Computer Science Graduate</b><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=3000&pause=800&color=4F9CF9&center=true&vCenter=true&width=780&lines=Saif+Yehia+Mosaad;Backend+.NET+Developer;ASP.NET+Core+Web+API;Building+Scalable+Backend+Systems" />
+</p>
+
+<p align="center">
+  <b>Saif Yehia Mosaad</b><br/>
+  Backend .NET Developer · Computer Science Graduate (Class of 2025)<br/>
   📍 Egypt
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 👋 Profile Overview
 
-- Backend Developer specialized in **.NET** with **2+ years of hands-on experience**
-- Computer Science graduate (Class of 2025)
-- Experienced in building **RESTful APIs & backend systems**
-- Strong focus on **Clean Architecture & best practices**
-- Learn by building real-world backend projects
-- 🎯 Goal: build reliable, scalable, and secure backend services
+Backend .NET Developer with **2+ years of hands-on experience** building real-world backend systems using **ASP.NET Core**.
+
+Focused on:
+- Clean Architecture
+- Maintainable & scalable code
+- Secure RESTful API design
+- Backend best practices
+
+🎯 **Open to backend opportunities** where I can contribute to building reliable and scalable systems.
 
 ---
 
-## 🛠 Skills & Tech Stack
+## 🧑‍💻 Technical Expertise
+
+**Backend Development**
+- ASP.NET Core Web API
+- RESTful API Design
+- Authentication & Authorization (JWT)
+- Entity Framework Core (Code First)
+- API Documentation (Swagger / OpenAPI)
+
+**Architecture & Code Quality**
+- Clean Architecture
+- SOLID Principles
+- Separation of Concerns
+- Scalable project structure
+
+**Databases**
+- PostgreSQL
+- Database design & optimization
+
+**DevOps & Tools**
+- Docker (fundamentals)
+- Git & GitHub
+- Azure (basics)
+
+---
+
+## 🛠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dotnet,cs,postgres,docker,git,github,azure&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1000&color=4F9CF9&center=true&vCenter=true&width=720&lines=.NET+%26+C%23;ASP.NET+Core+Web+API;Entity+Framework+Core;PostgreSQL;Clean+Architecture+%26+SOLID" />
-</p>
-
----
-
-## ⚙️ Backend Expertise
-
-- ASP.NET Core Web API
-- C# & .NET
-- Entity Framework Core (Code First)
-- RESTful API design
-- Authentication & Authorization (JWT)
-- Database design & optimization
-- Clean Architecture & SOLID principles
-- Docker fundamentals
-- API documentation with Swagger
-
 ---
 
 ## 📦 Backend Projects
 
-- E-commerce REST API
-- Authentication & Authorization System
-- Learning Management System (LMS) Backend
-- Role-based Access Control APIs
-- CRUD Systems with Clean Architecture
+- **E-commerce REST API**
+- **Authentication & Authorization System**
+- **Learning Management System (LMS) Backend**
+- **Role-Based Access Control APIs**
+- **CRUD Systems using Clean Architecture**
+
+> Project implementations and source code are available in the repositories below.
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/Saif-Yehia-Mosaad">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/saif-yehia/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
   <img
@@ -90,7 +100,8 @@
   />
 </p>
 
-
 ---
 
-⭐ Thanks for visiting my profile!
+<p align="center">
+  <i>Backend-focused engineer passionate about clean code and scalable systems.</i>
+</p>
