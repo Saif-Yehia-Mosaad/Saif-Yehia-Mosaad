@@ -89,16 +89,13 @@ Focused on:
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Saif-Yehia-Mosaad&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Saif-Yehia-Mosaad&show_icons=true&theme=tokyonight"
   />
+</p>
+
+<p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Saif-Yehia-Mosaad&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saif-Yehia-Mosaad&layout=compact&theme=tokyonight&hide_border=true"
-    height="150"
+    src="https://streak-stats.demolab.com?user=Saif-Yehia-Mosaad&theme=tokyonight"
   />
 </p>
 
