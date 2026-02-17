@@ -8,7 +8,7 @@
 
 <p align="center">
   <b>Saif Yehia Mosaad</b><br/>
-  Backend .NET Developer · Computer Science Graduate (Class of 2025)<br/>
+  Backend .NET Developer · Computer Science Graduate (Class of 2025-2026)<br/>
   📍 Egypt
 </p>
 
